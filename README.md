@@ -7,3 +7,5 @@
 > # **Playground Prediction Competition**
 >> ## Season 4
 >> [Regression Of Used Car Prices (Ep9)](https://www.kaggle.com/code/muhumuzadeusai/regression-for-used-cars) **LEADERBOARD SCORE: 2736/3066**
+
+>> [Loan Approval Prediction (Ep10)](https://www.kaggle.com/code/muhumuzadeusai/loan-approval-prediction) **LEADERBOARD SCORE: 448/3798**
